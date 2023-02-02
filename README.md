@@ -4,8 +4,11 @@
 The purpose of this analysis was to extract, transform, and load the data for independent funding by creating new CSV files then importing them into individual tables through SQL databases. Using generated ERD's to better navigate our coding path and manipulate code to process specific data information to be analyzed.
 
 ## Results
+The image below show the entity relationship diagram between the CSV files and table columns to illustrate an overview of a database schema. We can display and locate the primary keys and foreign key of each table showing the relationship of each entity.
 
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/118647523/216477150-99d2d509-baff-435f-9961-19619fe02291.png)
+
+
 
 ![Dev1](https://user-images.githubusercontent.com/118647523/216477173-46832eac-cf6e-47e8-a9b4-aafcd3201206.png)
 
