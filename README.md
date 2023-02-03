@@ -8,7 +8,7 @@ The image below show the entity relationship diagram between the CSV files and t
 
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/118647523/216477150-99d2d509-baff-435f-9961-19619fe02291.png)
 
-Combining, filtering, dropping, and organizing will narrow down the specified information as seen below. We work with multiple dataframes and tables to generate
+Combining, filtering, dropping, and organizing will narrow down the specified information as seen below. We write the code through jupyter notebook to pull the remaining columns listed backer_id, cf_id, names, and emails. 
 
 ![Dev1](https://user-images.githubusercontent.com/118647523/216477173-46832eac-cf6e-47e8-a9b4-aafcd3201206.png)
 
