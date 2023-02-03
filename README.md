@@ -20,14 +20,13 @@ Through pgAdmin we query a new table generated from the previous entity relation
 
 ![Dev3](https://user-images.githubusercontent.com/118647523/216477196-a17c5608-0ecb-42c1-86c2-efd97a1fc52d.png)
 
+In SQL we adjust the data to add additional columns and organize other columns by cleaning up the data. The remaining goal category is add to the end of our table to display the numeric funding value. 
+
 ![Dev4](https://user-images.githubusercontent.com/118647523/216477205-da80c9b8-a453-43e6-9511-fdd9cbca5b8a.png)
 
+The last table image is generated from code to show the email information of each backers name to list the goal remains for each live campaign they have pledged.
+
 ![Dev4-1](https://user-images.githubusercontent.com/118647523/216477212-d2808916-4aed-482f-ac71-b272db71b7f0.png)
-
-
-
-
-
 
 ## Summary 
 
