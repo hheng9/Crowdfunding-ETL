@@ -8,11 +8,14 @@ The image below show the entity relationship diagram between the CSV files and t
 
 ![crowdfunding_db_relationships](https://user-images.githubusercontent.com/118647523/216477150-99d2d509-baff-435f-9961-19619fe02291.png)
 
-Combining, filtering, dropping, and organizing will narrow down the specified information as seen below. We write the code through jupyter notebook to pull the remaining columns listed backer_id, cf_id, names, and emails. 
+To narrow down the information we use Jupyter notebook and Python code to extract and transform the information requested. After performing code we generate the remaining columns listed backer_id, cf_id, names, and emails. 
 
 ![Dev1](https://user-images.githubusercontent.com/118647523/216477173-46832eac-cf6e-47e8-a9b4-aafcd3201206.png)
 
+As seen below we format the same dataset by splitting the names for better viewing and convert the data types. By creating the necessary dataframe we then can export the data into a CSV file which become ready to load into postgreSQL. 
+
 ![Dev2](https://user-images.githubusercontent.com/118647523/216477186-174d66ef-2ee5-4e95-976a-3f5330dff200.png)
+
 
 ![Dev3](https://user-images.githubusercontent.com/118647523/216477196-a17c5608-0ecb-42c1-86c2-efd97a1fc52d.png)
 
