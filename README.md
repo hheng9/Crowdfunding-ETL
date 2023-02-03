@@ -16,6 +16,7 @@ As seen below we format the same dataset by splitting the names for better viewi
 
 ![Dev2](https://user-images.githubusercontent.com/118647523/216477186-174d66ef-2ee5-4e95-976a-3f5330dff200.png)
 
+Through pgAdmin we query a new table generated from the previous entity relationship diagram created. Once the schema is set we can import the CSV file created from the python into our newly created table and alter the infomation as needed. The data and image will come out identical with style being slight different. 
 
 ![Dev3](https://user-images.githubusercontent.com/118647523/216477196-a17c5608-0ecb-42c1-86c2-efd97a1fc52d.png)
 
