@@ -30,3 +30,8 @@ The last table image is generated from code to show the email information of eac
 
 ## Summary 
 
+The purpose of ETL (Extract, Transform, Load) is to pull together data from multiple sources into a single dataset for better analysis. The transformed data is often cleaned, filtered, and processed to ensure data quality, accuracy, and consistency.
+
+  * Extracting data from various sources.
+  * Transforming the data into a format that can be loaded into a database.
+  * Loading the transformed data into a desired database.
